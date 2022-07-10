@@ -1,0 +1,22 @@
+{
+  "name": "@pythoniaweb/phazor.js",
+  "version": "1.0.2",
+  "description": "Html JS Framework to make easy work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pythoniaweb/phazor.js.git"
+  },
+  "author": "Codertocat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pythoniaweb/phazor.js/issues"
+  },
+  "homepage": "https://github.com/pythoniaweb/phazor.js#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
+}
